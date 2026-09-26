@@ -4,7 +4,9 @@ A modern HTML5 mini-golf game with a **procedural course generator** and a **lev
 
 ## Play
 
-Open `index.html` in a browser. Double-clicking it works, or you can serve the folder:
+**Online:** https://adamfoxdev.github.io/puttputt/. Every push to `main` deploys there through `.github/workflows/pages.yml`.
+
+**Locally:** open `index.html` in a browser. Double-clicking it works, or you can serve the folder:
 
 ```sh
 npm start          # http://localhost:8080
