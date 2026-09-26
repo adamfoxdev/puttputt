@@ -1,0 +1,10 @@
+{
+  "name": "puttputt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modern HTML5 mini golf with a random level generator and level editor",
+  "scripts": {
+    "start": "npx --yes http-server -c-1 -p 8080 .",
+    "test": "node tests/run.js"
+  }
+}
